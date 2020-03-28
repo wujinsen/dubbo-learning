@@ -1,0 +1,6 @@
+# Project exclude paths
+/dubbo-springboot-xml-consumer/target/
+/dubbo-springboot-xml-provider/target/
+/dubbo-xml-consumer/target/
+/dubbo-xml-interface/target/
+/dubbo-xml-provider/target/
